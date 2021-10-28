@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int main() {
+
+
+    int n=3;
+
+    while(5) {
+        printf("¹àÝ®¹àÝ®®qÄ_, n:%d\n", n);
+        n--;
+}
+
+printf("THE END, n:%d\n", n);
+
+
+
+}
