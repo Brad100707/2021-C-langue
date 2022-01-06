@@ -19,3 +19,15 @@ return 0;
 ```
 
 # 第二周
+
+## week03-1
+```C++
+#include <stdio.h>
+
+int main() {
+
+printf("HELLO WORLD\n");
+
+}
+```
+
